@@ -1,0 +1,14 @@
+PearView — Copyright (c) 2026 Vaughan Langman. All rights reserved.
+
+You may download, install and use PearView for personal, non-commercial use.
+
+You may not, without written permission:
+- sell, rent or sublicense PearView
+- redistribute or re-host it (share the official download link instead)
+- modify, decompile or reverse-engineer it, or make derivative works
+
+PearView is provided "as is", without warranty of any kind. The author is not
+liable for any damages arising from its use.
+
+PearView includes third-party open-source components (Electron, Hyperswarm and
+others) under their own licenses; those licenses are unaffected.
